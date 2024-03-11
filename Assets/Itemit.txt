@@ -1,0 +1,2 @@
+Chair,100,Red
+Sword,500,Grey
