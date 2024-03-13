@@ -6,8 +6,8 @@ using UnityEngine;
 public class SampleSO : ScriptableObject
 {
     public string myString;
-    public int count;
-    public Sprite[] spriteArray;
+    public int totalCount; //
+ 
 
     void Awake()
     {
